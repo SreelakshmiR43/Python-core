@@ -1,0 +1,11 @@
+h1{
+    color:red;
+    font-family:cursive;
+}
+p{
+    color:blue;
+    background-color:pink;
+    border:2px solid black;
+    padding:10px
+
+}
